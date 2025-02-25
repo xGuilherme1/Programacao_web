@@ -1,0 +1,33 @@
+.home {
+    text-align: center;
+    padding: 50px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+  
+.about, .skills, .education {
+    margin-top: 30px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+  
+.skills ul {
+    list-style: none;
+    padding: 0;
+}
+  
+.skills li {
+    background-color: #007bff;
+    color: white;
+    display: inline-block;
+    padding: 8px 12px;
+    margin: 5px;
+    border-radius: 5px;
+}
+  
+.education p {
+    font-weight: bold;
+}
